@@ -8,4 +8,4 @@ Este es el README. Es la descripción del proyecto.
 
 Este es un cambio que realizo en el README desde la nube, es decir GitHub remoto.
 
-Cambio desde Main
+Cambio desde Auxiliar
